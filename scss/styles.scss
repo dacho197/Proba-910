@@ -1,0 +1,33 @@
+@import 'vars';
+
+* {
+	color: $textColor;
+}
+
+body {
+	background: $background;
+}
+
+header, main, footer {
+	margin: auto;
+	width: 80%;
+}
+
+header {
+	background: $headerBackground;
+
+	h1, h2 {
+		text-align: center;
+	}
+}
+
+main {
+
+	p {
+		text-align: justify;
+	}
+}
+
+footer {
+	background: $footerBackground;
+}

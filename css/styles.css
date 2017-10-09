@@ -1,0 +1,22 @@
+* {
+  color: #fff; }
+
+body {
+  background: #000; }
+
+header, main, footer {
+  margin: auto;
+  width: 80%; }
+
+header {
+  background: red; }
+  header h1, header h2 {
+    text-align: center; }
+
+main p {
+  text-align: justify; }
+
+footer {
+  background: #333; }
+
+/*# sourceMappingURL=styles.css.map */
